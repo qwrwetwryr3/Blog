@@ -3,3 +3,8 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
+
+#container{
+    background-color: aqua;
+    text-align: center;
+}
